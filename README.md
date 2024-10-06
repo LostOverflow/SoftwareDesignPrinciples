@@ -11,6 +11,10 @@ Keep It Stupid Simple. If you could simplify your code - make it. Less code you 
 Time is most valuable IT resource. If you are creating somethong big and hard explained - be sure noone understand how it works, even youself. 
 Sometime it could take even longer to write short code but it will safe your and your teammembers time to support/test it.
 
+### Devil is in the Details:
+![image](https://github.com/user-attachments/assets/fe7a5d67-531d-4376-91d3-107950db179d)
+** Because I hate 'The'
+
 ### YAGNI
 You ain’t gonna need it. Never spend your time for writing large number of features wich could probably never need.
 Time is most valuable IT resource. Focus on busyness requirenments.
