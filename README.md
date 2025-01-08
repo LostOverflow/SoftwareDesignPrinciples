@@ -13,7 +13,6 @@ Sometime it could take even longer to write short code but it will safe your and
 
 ### Devil is in the Details:
 ![image](https://github.com/user-attachments/assets/fe7a5d67-531d-4376-91d3-107950db179d)
-** Because I hate 'The'
 
 ### YAGNI
 You ain’t gonna need it. Never spend your time for writing large number of features wich could probably never need.
